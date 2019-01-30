@@ -1,0 +1,7 @@
+C:\Kuba\C#\Repo\CSharpKurs\Hello\bin\Debug\Hello.exe.config
+C:\Kuba\C#\Repo\CSharpKurs\Hello\bin\Debug\Hello.exe
+C:\Kuba\C#\Repo\CSharpKurs\Hello\bin\Debug\Hello.pdb
+C:\Kuba\C#\Repo\CSharpKurs\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Kuba\C#\Repo\CSharpKurs\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Kuba\C#\Repo\CSharpKurs\Hello\obj\Debug\Hello.exe
+C:\Kuba\C#\Repo\CSharpKurs\Hello\obj\Debug\Hello.pdb
